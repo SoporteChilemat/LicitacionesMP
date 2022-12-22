@@ -1,0 +1,445 @@
+<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr align="center" style="color:#FFFFFF;background-color:#006699;font-family:Verdana;font-size:10pt;font-weight:bold;">
+		<td>ID</td><td>Nombre</td><td>Unidad de compra</td><td>Fecha de publicación</td><td>Fecha de cierre</td><td>Estado</td><td>Cotizaciones enviadas</td><td>Institución</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>2424-1382-COT22</td><td>3381/PED27/3589/PED36/3540/PED.77/MTF/TIMBRES Y ALMOHADILLA </td><td>I MUNICIPALIDAD DE VINA DEL MAR</td><td>02-09-2022 19:11:26</td><td>05-09-2022 12:58:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE VINA DEL MAR</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>1208983-123-COT22</td><td>Adornos y otros insumos Fiestas Patrias Residencias Familiares V región.</td><td>ADMINISTRACIÓN DIRECTA REGIÓN DE VALPARAÍSO</td><td>02-09-2022 19:07:18</td><td>06-09-2022 10:00:00</td><td>Publicada</td><td>0</td><td>SERVICIO NACIONAL DE PROTECCIÓN ESPECIALIZADA A LA NIÑEZ Y ADOLESCENCI</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>1028-38-COT22</td><td>Materiales de Construcción</td><td>Dirección de Vialidad - V Región - Dirección Regional</td><td>02-09-2022 18:39:40</td><td>09-09-2022 12:00:00</td><td>Publicada</td><td>1</td><td>MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>5626-609-COT22</td><td>ESCALA ARTICULADA CENTRO INVESTIGACION - R.K</td><td>22 Organismo Central-Dir. Investigacion</td><td>02-09-2022 18:47:22</td><td>06-09-2022 12:00:00</td><td>Publicada</td><td>0</td><td>UNIVERSIDAD DE VALPARAISO</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>899-188-COT22</td><td>BASUREROS Y CONTENEDORES</td><td>Hospital San Jose - Casablanca</td><td>02-09-2022 17:30:42</td><td>05-09-2022 9:00:00</td><td>Publicada</td><td>0</td><td>SERVICIO DE SALUD VALPARAISO SAN ANTONIO</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>2424-1378-COT22</td><td>3534/PEDIDO 67/MTF ARTICULOS DE LIBRERIA</td><td>I MUNICIPALIDAD DE VINA DEL MAR</td><td>02-09-2022 17:10:09</td><td>05-09-2022 11:07:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE VINA DEL MAR</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>3660-141-COT22</td><td>“EXTINTORES PQS Y CO2 PARA LOS ESTABLECIMIENTOS EDUCACIONALES DE LA COMUNA DE PETORCA”.</td><td>Departamento de Educación</td><td>02-09-2022 17:20:45</td><td>05-09-2022 17:30:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE PETORCA</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>2513-28-COT22</td><td>MATERIALES PARQUE   LA LIGUA </td><td>V Región  -  Provincial Petorca</td><td>02-09-2022 17:13:44</td><td>08-09-2022 16:00:00</td><td>Publicada</td><td>0</td><td>CORP NACIONAL FORESTAL</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>1111432-269-COT22</td><td>INSUMOS PARA REPARACIONES VARIAS</td><td>BIENES Y SERVICIOS</td><td>02-09-2022 17:12:38</td><td>05-09-2022 8:00:00</td><td>Publicada</td><td>0</td><td>CONSULTORIO GENERAL URBANO SAN FELIPE</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>2513-27-COT22</td><td>BODEGA MULTIUSO VIVERO </td><td>V Región  -  Provincial Petorca</td><td>02-09-2022 16:58:57</td><td>07-09-2022 15:00:00</td><td>Publicada</td><td>0</td><td>CORP NACIONAL FORESTAL</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>3232-359-COT22</td><td>FOCO REFLECTOR LED - SC N°77487 OPS</td><td>Departamento Adquisiciones</td><td>02-09-2022 16:30:46</td><td>05-09-2022 14:45:00</td><td>Publicada</td><td>1</td><td>I MUNICIPALIDAD DE SANTO DOMINGO</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>859378-303-COT22</td><td>Televisor y soporte Proyecto INICI-SBaldanzi , UVA 20993</td><td>14 Convenio Desempeño - Proyectos</td><td>02-09-2022 13:51:40</td><td>08-09-2022 15:00:00</td><td>Publicada</td><td>0</td><td>UNIVERSIDAD DE VALPARAISO</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>355-282-COT22</td><td>SEÑALETICA DE DISTANCIAMIENTO ADHESIVA EN PISO</td><td>HOSPITAL HANGA ROA</td><td>02-09-2022 16:22:01</td><td>05-09-2022 10:00:00</td><td>Publicada</td><td>0</td><td>DIRECCION SERVICIO SALUD METROPOLITANO O</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>4282-155-COT22</td><td>Insumos (Alimentos), para los stand de los diferentes establecimientos educacionales y Jardines Infantiles de la comuna de Catemu.</td><td>Daem</td><td>02-09-2022 15:35:30</td><td>05-09-2022 9:10:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE CATEMU</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>3341-425-COT22</td><td>ADQ. DE ENTRADAS DE TEATRO PARA ESCUELA LO NARVAEZ DEL DAEM DE OLMUE</td><td>Departamento de Educación</td><td>02-09-2022 16:09:20</td><td>04-09-2022 20:00:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE OLMUE</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>5324-71-COT22</td><td>ALIMENTACION PARA PERSONAS </td><td>CSC Valparaiso</td><td>02-09-2022 15:44:10</td><td>05-09-2022 10:02:00</td><td>Publicada</td><td>0</td><td>SERVICIO NACIONAL DE MENORES</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>2688-122-COT22</td><td>ADQUISICION BANDERAS PARA EL DEPARTAMENTO DE SALUD</td><td>MUNICIPALIDAD DE ALGARROBO-SALUD</td><td>02-09-2022 15:48:29</td><td>08-09-2022 17:00:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE ALGARROBO</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>3906-363-COT22</td><td>PINTURA, RODILLOS Y COLA FRÍA CARPINTERO, LAS VEGAS</td><td>Educación DAEM</td><td>02-09-2022 15:33:29</td><td>05-09-2022 9:00:00</td><td>Publicada</td><td>1</td><td>I MUNICIPALIDAD DE LLAY LLAY</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>1058141-1142-COT22</td><td>PEDIDO SEPTIEMBRE FARMACIA GALENICO </td><td>Fármarcos</td><td>02-09-2022 14:59:46</td><td>05-09-2022 11:00:00</td><td>Publicada</td><td>0</td><td>SERVICIO NACIONAL DE SALUD HOSPITAL CARLOS VAN BUREN</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>1173462-9-COT22</td><td>519/ADQUISICION DE MATERIALES DE FERRETERIA Y CONSTRUCCION PARA CET CERRADO”  </td><td>CET Cerrado Complejo Penitenciario Valparaíso</td><td>02-09-2022 14:27:12</td><td>08-09-2022 12:00:00</td><td>Publicada</td><td>1</td><td>DIRECCION GENERAL DE GENDARMERIA DE CHIL</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>617807-1321-COT22</td><td>ADQUISICION DE COLACIONES</td><td>Hospital San Juan de Dios de Los Andes</td><td>02-09-2022 14:43:34</td><td>05-09-2022 9:30:00</td><td>Publicada</td><td>0</td><td>SERV NAC SALUD HOSPITAL DE LOS ANDES</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>3661-378-COT22</td><td>INSUMOS PARA PERSONAL OPERADOR CAMION LIMPIA FOSAS</td><td>Adquisiciones</td><td>02-09-2022 15:00:06</td><td>05-09-2022 10:00:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE SAN ESTEBAN</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>898-582-COT22</td><td>ESCALERA 4 PELDAÑOS</td><td>HOSPITAL CLAUDIO VICUNA</td><td>02-09-2022 14:47:00</td><td>06-09-2022 15:00:00</td><td>Publicada</td><td>0</td><td>SERVICIO DE SALUD VALPARAISO SAN ANTONIO</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>2170-360-COT22</td><td>MATERIALES PARA CONFECCIÓN DE MUEBLES</td><td>Abastecimiento Hospital Limache</td><td>02-09-2022 14:46:03</td><td>07-09-2022 8:01:00</td><td>Publicada</td><td>0</td><td>HOSPITAL DE LA FAMILIA Y LA COMUNIDAD SANTO TOMAS DE LIMACHE</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>3086-762-COT22</td><td>SERVICIO DE RECARGA Y MANTENCION EXTINTORES COMFUES (156265)</td><td>CENTRO DE ABASTECIMIENTO (V) (ADQ)</td><td>02-09-2022 14:12:59</td><td>06-09-2022 8:00:00</td><td>Publicada</td><td>0</td><td>DIRECCION DE ABASTECIMIENTO DE LA ARMADA</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>2428-1059-COT22</td><td>Material de escritorio</td><td>I. MUNICIPALIDAD DE QUILPUE</td><td>02-09-2022 13:30:48</td><td>05-09-2022 12:30:00</td><td>Publicada</td><td>0</td><td>I. MUNICIPALIDAD DE QUILPUE</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>4728-194-COT22</td><td>SOLICITUD DE COMPRA ALARGADOR Y PIZARRA ACRÍLICA </td><td>Subsecretaria de Pesca 2</td><td>02-09-2022 13:38:47</td><td>09-09-2022 10:30:00</td><td>Publicada</td><td>0</td><td>SUBSECRETARIA DE PESCA Y ACUICULTURA</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>3036-120-COT22</td><td>ADQ IMPLEMENTOS HABILITACIÓN ESPACIOS EDUCATIVOS MACH - SEP</td><td>EDUCACION</td><td>22-08-2022 17:23:49</td><td>05-09-2022 9:00:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE LA CRUZ</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>4111-86-COT22</td><td>ARTICULOS DE ASEO PARA CESFAM JOSE JOAQUIN AGUIRRE</td><td>SALUD</td><td>02-09-2022 12:20:26</td><td>07-09-2022 8:14:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE CALLE LARGA</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>3632-288-COT22</td><td>TIMBRES PARA FUNCIONARIOS DESAM Y CENTROS DE SALUD</td><td>Municipalidad De Nogales Dpto Salud</td><td>02-09-2022 13:14:32</td><td>03-09-2022 14:00:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE NOGALES</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>2737-326-COT22</td><td>CORTASETOS Y PICOTAS</td><td>ADQUISICIONES MUNISANFE</td><td>02-09-2022 13:11:55</td><td>06-09-2022 10:10:00</td><td>Publicada</td><td>1</td><td>I MUNICIPALIDAD DE SAN FELIPE</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>4728-192-COT22</td><td>SOLICITUD DE COMPRA ÚTILES DE OFICINA</td><td>Subsecretaria de Pesca 2</td><td>02-09-2022 12:29:39</td><td>09-09-2022 10:30:00</td><td>Publicada</td><td>0</td><td>SUBSECRETARIA DE PESCA Y ACUICULTURA</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>2756-620-COT22</td><td>COMPRA MATERIAL DE ASEO ESCUELA PEDRO VIVEROS ORMEÑO.</td><td>DEM</td><td>02-09-2022 12:33:53</td><td>03-09-2022 13:10:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE SAN ANTONIO</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>1165648-395-COT22</td><td>Artículos de Escritorio</td><td>Departamento de Salud</td><td>02-09-2022 12:09:09</td><td>05-09-2022 8:00:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE LIMACHE</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>2427-810-COT22</td><td>ADQUISICION DE HOJAS MADRES DE PAQUETE RESORTE Y PERNOS CENTRO, GESTION DE FLOTA.</td><td>DEPARTAMENTO DE ADQUISICIONES</td><td>02-09-2022 12:32:39</td><td>07-09-2022 10:45:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE VALPARAISO</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>4766-329-COT22</td><td>ADQUISICION GALON PINTURA, BOTICA MUNICIPAL</td><td>SALUD</td><td>02-09-2022 12:42:39</td><td>05-09-2022 8:36:00</td><td>Publicada</td><td>1</td><td>I MUNICIPALIDAD DE LA CRUZ</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>3601-174-COT22</td><td>Materiales taller de servicios hoteleros Liceo Técnico Papudo</td><td>Municipalidad de Papudo - Educación</td><td>02-09-2022 12:24:10</td><td>05-09-2022 10:30:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE PAPUDO</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>1823-200-COT22</td><td>Calzado seguridad SENAME Limache</td><td>CIP CRC Limache</td><td>02-09-2022 12:09:28</td><td>05-09-2022 12:00:00</td><td>Publicada</td><td>0</td><td>SERVICIO NACIONAL DE MENORES</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>3110-82-COT22</td><td>ADQUISICION DE MATERIAL PARA DEPTO.INFORMATICA </td><td>DIRECCION DE BIENESTAR SOCIAL DE LA ARMADA</td><td>02-09-2022 12:18:38</td><td>09-09-2022 12:00:00</td><td>Publicada</td><td>0</td><td>DIRECCION DE ABASTECIMIENTO DE LA ARMADA</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>552528-19-COT22</td><td>Adquisición de diversos productos para el Departamento de Bienestar (Ver documento adjunto)</td><td>Unidad de Compra Bienestar</td><td>02-09-2022 12:19:59</td><td>07-09-2022 16:00:00</td><td>Publicada</td><td>0</td><td>SERVICIO NACIONAL DE ADUANAS</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>1028-36-COT22</td><td>Artículos de aseo y dispensadores </td><td>Dirección de Vialidad - V Región - Dirección Regional</td><td>02-09-2022 12:00:00</td><td>08-09-2022 15:00:00</td><td>Publicada</td><td>0</td><td>MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>2211-618-COT22</td><td>Material deportivo sol.331 Dideco </td><td>MUNICIPALIDAD LIMACHE - Adquisiciones</td><td>02-09-2022 12:10:02</td><td>05-09-2022 10:00:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE LIMACHE</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>377-248-COT22</td><td>TAPA Y MODULOS DE CEMENTO</td><td>MUNICIPALIDAD DE ALGARROBO-ADQUISICIONES</td><td>02-09-2022 12:03:47</td><td>09-09-2022 12:02:00</td><td>Publicada</td><td>1</td><td>I MUNICIPALIDAD DE ALGARROBO</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>3882-782-COT22</td><td>DIMAO</td><td>Ilustre Municipalidad de Llay Llay</td><td>02-09-2022 12:02:47</td><td>05-09-2022 7:00:00</td><td>Publicada</td><td>1</td><td>I MUNICIPALIDAD DE LLAY LLAY</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>3244-304-COT22</td><td>ARTÍCULOS DE OFICINA ESCUELA BUCALEMITO</td><td>Departamento de Educación</td><td>02-09-2022 11:53:39</td><td>05-09-2022 12:00:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE SANTO DOMINGO</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>3132-218-COT22</td><td>ADQUISICIÓN DE MATERIALES PARA CIRCUITO DE GAS</td><td>DIRECCION DE SEGURIDAD Y OPERACIONES MARITIMAS</td><td>02-09-2022 11:39:58</td><td>16-09-2022 10:00:00</td><td>Publicada</td><td>0</td><td>DIRECCION DE ABASTECIMIENTO DE LA ARMADA</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>2464-1162-COT22</td><td>Cambio de chapa digital y asignación de nueva clave para puerta y caja fuerte metálica, OP. N°63 Tesorería Municipal.</td><td>IMUNI_QUILLOTA ADQUISICIONES</td><td>02-09-2022 11:42:10</td><td>05-09-2022 9:00:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE QUILLOTA</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>3601-171-COT22</td><td>Materiales para taller de acuicultura</td><td>Municipalidad de Papudo - Educación</td><td>02-09-2022 10:52:44</td><td>05-09-2022 9:00:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE PAPUDO</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>3530-148-COT22</td><td>Adquisicion de servicio de mantenimiento de, reparacion e instalacion de equipos frigorificos y aire acondicionado.</td><td>Regimiento N 2 "Maipo"</td><td>02-09-2022 11:18:10</td><td>06-09-2022 12:00:00</td><td>Publicada</td><td>0</td><td>COMANDO DE APOYO A LA FUERZA</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>3191-1378-COT22</td><td>COT (MAT) DETERGENTES Y BOLSAS</td><td>HOSPITAL NAVAL ALMIRANTE NEF</td><td>02-09-2022 11:16:57</td><td>05-09-2022 8:00:00</td><td>Publicada</td><td>0</td><td>DIRECCION DE ABASTECIMIENTO DE LA ARMADA</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>1057554-1727-COT22</td><td>ARTICULOS ASEO PALA LIMPIADOR EN CREMA LAVALOZA MOPA TIPO AVION 90 CM</td><td>Bienes y Servicios</td><td>02-09-2022 11:04:49</td><td>06-09-2022 8:00:00</td><td>Publicada</td><td>0</td><td>SERVICIO NACIONAL DE SALUD HOSPITAL CARLOS VAN BUREN</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>4883-77-COT22</td><td>Artículos de escritorio y archivo</td><td>Consejo Regional de la Cultura y las Artes Valparaíso</td><td>02-09-2022 10:59:06</td><td>14-09-2022 8:57:00</td><td>Publicada</td><td>0</td><td>SUBSECRETARÍA DE LAS CULTURAS Y LAS ARTES</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>2755-314-COT22</td><td>Equipo de iluminacion produccion eventos municipales, sc n° 461, folio 1426, Cultura Dideco</td><td>IMunicipalidad de San Antonio</td><td>02-09-2022 10:42:21</td><td>08-09-2022 12:00:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE SAN ANTONIO</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>3678-189-COT22</td><td>ADQUISICION DE INSUMOS PARA LIMPIEZA DE MICROBASURALES, COMUNA DE PETORCA</td><td>ADQUISICIONES</td><td>02-09-2022 10:59:56</td><td>07-09-2022 12:00:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE PETORCA</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>2176-214-COT22</td><td>“ADQUISICIÓN DE 100 BIDONES PLÁSTICOS Y 6 EMBUDOS PARA ALMACENAR ALCOHOL GEL Y AMONIO CUATERNARIO”</td><td>Corp. Adm. del Poder Judicial -  Valparaiso</td><td>02-09-2022 10:35:42</td><td>06-09-2022 14:30:00</td><td>Publicada</td><td>0</td><td>CORP ADMINISTRATIVA DEL PODER JUDICIAL</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>2428-1053-COT22</td><td>ARTICULOS DE LIMPIEZA</td><td>I. MUNICIPALIDAD DE QUILPUE</td><td>02-09-2022 10:19:34</td><td>05-09-2022 11:30:00</td><td>Publicada</td><td>0</td><td>I. MUNICIPALIDAD DE QUILPUE</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>2427-804-COT22</td><td>Artículos de Oficina, D. Seguridad Ciudadana, Barrios Prioritarios Barrio I</td><td>DEPARTAMENTO DE ADQUISICIONES</td><td>02-09-2022 9:20:23</td><td>06-09-2022 11:00:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE VALPARAISO</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>3906-361-COT22</td><td>HABILITACIÓN AGUA CALIENTE, JARDÍN SEMILLITAS DE AMOR.</td><td>Educación DAEM</td><td>02-09-2022 10:11:07</td><td>05-09-2022 8:30:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE LLAY LLAY</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>847-49-COT22</td><td>Suministro de Mantención y Reparación de Estufas a Gas.</td><td>Junji - V Región</td><td>02-09-2022 10:05:46</td><td>07-09-2022 10:01:00</td><td>Publicada</td><td>0</td><td>JUNTA NACIONAL DE JARDINES         INFANTILES</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>2428-1050-COT22</td><td>TONER IMPRESORA ORIGINALES Y MATERIALES DE ESCRITORIO</td><td>I. MUNICIPALIDAD DE QUILPUE</td><td>02-09-2022 9:59:25</td><td>05-09-2022 10:00:00</td><td>Publicada</td><td>0</td><td>I. MUNICIPALIDAD DE QUILPUE</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>3544-164-COT22</td><td>ADQ DE LUMINARIA Y LED SOLAR (FONDOS FORA)</td><td>Destacamento Montaña Nº 3 Yungay - DESMÑA N°3</td><td>02-09-2022 9:51:13</td><td>06-09-2022 13:00:00</td><td>Publicada</td><td>0</td><td>COMANDO DE APOYO A LA FUERZA</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>2427-803-COT22</td><td>Adquisicion de Materiales para reparacion de estructura metalica,DAT</td><td>DEPARTAMENTO DE ADQUISICIONES</td><td>02-09-2022 9:09:23</td><td>06-09-2022 11:00:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE VALPARAISO</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>1705-323-COT22</td><td>INTERRUPTOR AUTOMÁTICO 160 amp</td><td>Hospital Quintero</td><td>02-09-2022 8:59:29</td><td>07-09-2022 15:53:00</td><td>Publicada</td><td>0</td><td>HOSPITAL ADRIANA COUSINO DE QUINTERO</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>1823-198-COT22</td><td>Materiales aseo SENAME  Limache</td><td>CIP CRC Limache</td><td>02-09-2022 9:11:12</td><td>05-09-2022 8:00:00</td><td>Publicada</td><td>0</td><td>SERVICIO NACIONAL DE MENORES</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>512684-42-COT22</td><td>Adquisición de víveres</td><td>FF ALMIRANTE CONDELL</td><td>02-09-2022 8:32:42</td><td>06-09-2022 8:32:00</td><td>Publicada</td><td>0</td><td>DIRECCION DE ABASTECIMIENTO DE LA ARMADA</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>1823-197-COT22</td><td>Materiales aseo SENAME  Limache</td><td>CIP CRC Limache</td><td>02-09-2022 8:59:45</td><td>05-09-2022 8:00:00</td><td>Publicada</td><td>0</td><td>SERVICIO NACIONAL DE MENORES</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>3561-272-COT22</td><td>TOLDO PLEGABLE</td><td>Departamento de Salud Municipal</td><td>02-09-2022 8:50:46</td><td>06-09-2022 8:45:00</td><td>Publicada</td><td>1</td><td>I MUNICIPALIDAD DE LA CALERA</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>3882-779-COT22</td><td>SEGURIDAD PUBLICA- NOTA DE PEDIDO N°1806</td><td>Ilustre Municipalidad de Llay Llay</td><td>02-09-2022 8:29:38</td><td>06-09-2022 8:00:00</td><td>Publicada</td><td>1</td><td>I MUNICIPALIDAD DE LLAY LLAY</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>5626-605-COT22</td><td>TUBERIA HIDRAULICA PROYECTO FONDEF - R.A</td><td>22 Organismo Central-Dir. Investigacion</td><td>01-09-2022 18:50:13</td><td>05-09-2022 12:00:00</td><td>Publicada</td><td>1</td><td>UNIVERSIDAD DE VALPARAISO</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>5626-603-COT22</td><td>MATERIALES E INSUMOS DE FERRETERIA CENTRO INVESTIGACION - D.P</td><td>22 Organismo Central-Dir. Investigacion</td><td>01-09-2022 18:31:59</td><td>05-09-2022 12:00:00</td><td>Publicada</td><td>0</td><td>UNIVERSIDAD DE VALPARAISO</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>5626-601-COT22</td><td>MATERIAL FERRETERIA Rollo polietileno PROYECTO FONDEF- R.A</td><td>22 Organismo Central-Dir. Investigacion</td><td>01-09-2022 18:03:27</td><td>05-09-2022 12:00:00</td><td>Publicada</td><td>0</td><td>UNIVERSIDAD DE VALPARAISO</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>3776-201-COT22</td><td>HORNO ELECTRICO, THERMO ELECTRICO, MESAS PLEGABLES.</td><td>UNIDAD DE ADMINISTRACIÓN Y FINANZAS</td><td>01-09-2022 16:41:10</td><td>05-09-2022 13:00:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE HIJUELAS</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>3882-777-COT22</td><td>DIMAO- NOTA DE PEDIDO N°1811</td><td>Ilustre Municipalidad de Llay Llay</td><td>01-09-2022 16:42:49</td><td>05-09-2022 8:00:00</td><td>Publicada</td><td>1</td><td>I MUNICIPALIDAD DE LLAY LLAY</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>4968-1103-COT22</td><td>INSUMOS DE ASEO Y DESINFECCION</td><td>ABASTECIMIENTO ECONOMATO</td><td>01-09-2022 16:33:57</td><td>05-09-2022 8:33:00</td><td>Publicada</td><td>0</td><td>HOSPITAL DE QUILPUE</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>3906-360-COT22</td><td>COMPRA TROMPOS Y VOLANTINES, ESCUELA LAS PALMAS.</td><td>Educación DAEM</td><td>01-09-2022 16:29:21</td><td>05-09-2022 8:30:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE LLAY LLAY</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>2833-699-COT22</td><td>CINTA DE EMBALAJE PERSONALIZADA</td><td>DEPARTAMENTO DE EDUCACION MUNICIPAL</td><td>01-09-2022 16:36:45</td><td>05-09-2022 9:00:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE QUILLOTA</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>2424-1370-COT22</td><td>2746/P.19 (KMGA) TIJERA ELÉCTRICA INALAMBRICA</td><td>I MUNICIPALIDAD DE VINA DEL MAR</td><td>01-09-2022 16:17:34</td><td>05-09-2022 9:00:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE VINA DEL MAR</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>2833-693-COT22</td><td>RECARGA DE EXTINTORES, J.I PEQUEÑO PARAISO </td><td>DEPARTAMENTO DE EDUCACION MUNICIPAL</td><td>01-09-2022 15:42:33</td><td>05-09-2022 8:00:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE QUILLOTA</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>426-111-COT22</td><td>Insumos Aseo </td><td>H_Petorca</td><td>01-09-2022 15:29:51</td><td>12-09-2022 8:00:00</td><td>Publicada</td><td>0</td><td>HOSPITAL DE PETORCA</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>956-772-COT22</td><td>guillotina termolaminadora  micas folio 166 </td><td>SERVICIO DE SALUD VALPARAISO SAN ANTONIO</td><td>01-09-2022 15:36:00</td><td>05-09-2022 8:00:00</td><td>Publicada</td><td>0</td><td>SERVICIO DE SALUD VALPARAISO SAN ANTONIO</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>2920-170-COT22</td><td>Adquisición de Insumos Estimulación cognitiva y física Centro Diurno</td><td>IMunicipalidad de Juan Fernández</td><td>01-09-2022 15:29:23</td><td>06-09-2022 10:00:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE JUAN FERNANDEZ</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>1208097-150-COT22</td><td>Alargadores para la Dirección Regional de Valparaiso</td><td>DIRECCION REGIONAL VALPARAISO</td><td>01-09-2022 15:25:57</td><td>06-09-2022 10:00:00</td><td>Publicada</td><td>1</td><td>SERVICIO NACIONAL DE PROTECCIÓN ESPECIALIZADA A LA NIÑEZ Y ADOLESCENCI</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>1057554-1717-COT22</td><td>Cintas métricas para medición antropométrica y Visores de Vena</td><td>Bienes y Servicios</td><td>01-09-2022 15:04:32</td><td>09-09-2022 16:00:00</td><td>Publicada</td><td>0</td><td>SERVICIO NACIONAL DE SALUD HOSPITAL CARLOS VAN BUREN</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>5005-121-COT22</td><td>COTIZACION CARRO TRANSPORTADOR PLEGABLE CON PULPOS ELASTICOS PARA AMARRE</td><td>05 Facultad de Odontología</td><td>01-09-2022 15:00:02</td><td>05-09-2022 9:00:00</td><td>Publicada</td><td>0</td><td>UNIVERSIDAD DE VALPARAISO</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>956-771-COT22</td><td>ventilador mel  folio 22</td><td>SERVICIO DE SALUD VALPARAISO SAN ANTONIO</td><td>01-09-2022 14:58:25</td><td>05-09-2022 8:00:00</td><td>Publicada</td><td>1</td><td>SERVICIO DE SALUD VALPARAISO SAN ANTONIO</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>2170-356-COT22</td><td>TIMBRES</td><td>Abastecimiento Hospital Limache</td><td>01-09-2022 14:47:53</td><td>05-09-2022 8:01:00</td><td>Publicada</td><td>0</td><td>HOSPITAL DE LA FAMILIA Y LA COMUNIDAD SANTO TOMAS DE LIMACHE</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>2176-213-COT22</td><td>ADQUISICIÓN DE INSUMOS DE LIMPIEZA Y DE COMESTIBLE PARA LA  ILUSTRÍSIMA CORTE DE APELACIONES DE VALPARAÍSO.</td><td>Corp. Adm. del Poder Judicial -  Valparaiso</td><td>01-09-2022 13:49:39</td><td>07-09-2022 11:00:00</td><td>Publicada</td><td>0</td><td>CORP ADMINISTRATIVA DEL PODER JUDICIAL</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>5509-34-COT22</td><td>SE REQUIERE ADQUIRIR MATERIALES VARIOS PARA MEJORAS DE OBRAS CIVILES EN BODEGA SUBDGI,  SUBTERRÁNEO SECTOR TORRE, SENADO VALPARAÍSO. </td><td>Departamento de Mantención</td><td>01-09-2022 14:29:37</td><td>05-09-2022 15:00:00</td><td>Publicada</td><td>0</td><td>SENADO DE LA REPUBLICA</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>2757-903-COT22</td><td>ADQUISICIÓN ARTICULOS DE ESCRITORIO PARA USO CONVENIO SALUD MENTAL APS, DE LA RED DE SALUD MUNICIPAL, PROVEEDORES DEBEN AJUSTARSE A LO SOLICITADO EN ADJUNTOS</td><td>Salud</td><td>01-09-2022 14:31:28</td><td>07-09-2022 15:00:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE SAN ANTONIO</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>1057554-1715-COT22</td><td>CONTENEDORES DE BASURA PNH 7876</td><td>Bienes y Servicios</td><td>01-09-2022 14:26:37</td><td>05-09-2022 8:00:00</td><td>Publicada</td><td>0</td><td>SERVICIO NACIONAL DE SALUD HOSPITAL CARLOS VAN BUREN</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>956-764-COT22</td><td>estufas mel folio 22</td><td>SERVICIO DE SALUD VALPARAISO SAN ANTONIO</td><td>01-09-2022 14:22:26</td><td>05-09-2022 8:00:00</td><td>Publicada</td><td>0</td><td>SERVICIO DE SALUD VALPARAISO SAN ANTONIO</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>4848-486-COT22</td><td>COMPRA DE OPALINA GOFRADA BLANCA TAMAÑO CARTA (CAJA DE 100 UNIDADES) PARA UNIDAD DE CAPACITACION </td><td>Departamento de Salud</td><td>01-09-2022 14:19:01</td><td>08-09-2022 9:30:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE EL TABO</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>956-761-COT22</td><td>jarras y filtros mel 583</td><td>SERVICIO DE SALUD VALPARAISO SAN ANTONIO</td><td>01-09-2022 14:11:48</td><td>05-09-2022 8:11:00</td><td>Publicada</td><td>0</td><td>SERVICIO DE SALUD VALPARAISO SAN ANTONIO</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>956-760-COT22</td><td>llave lavaplatos  mel 583</td><td>SERVICIO DE SALUD VALPARAISO SAN ANTONIO</td><td>01-09-2022 14:09:27</td><td>05-09-2022 8:00:00</td><td>Publicada</td><td>1</td><td>SERVICIO DE SALUD VALPARAISO SAN ANTONIO</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>4844-194-COT22</td><td>ADQUISICION DE INSUMOS FUNCIONARIOS DAEM</td><td>Departamento Educación</td><td>01-09-2022 13:32:12</td><td>05-09-2022 9:29:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE EL TABO</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>3232-358-COT22</td><td>MATERIAL GRAFICO - SC N°77444 DIMAO</td><td>Departamento Adquisiciones</td><td>01-09-2022 13:14:46</td><td>05-09-2022 11:30:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE SANTO DOMINGO</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>2755-312-COT22</td><td>Compra de toldos, Folio 1402 Prodesal</td><td>IMunicipalidad de San Antonio</td><td>01-09-2022 13:14:20</td><td>06-09-2022 11:00:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE SAN ANTONIO</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>2755-311-COT22</td><td>Compra de telas impermeables, Folio 1401 Prodesal</td><td>IMunicipalidad de San Antonio</td><td>01-09-2022 13:09:25</td><td>06-09-2022 11:00:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE SAN ANTONIO</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>3633-58-COT22</td><td>ALARGADORES DE TOMA CORRIENTE</td><td>Municipalidad De Nogales Educacion</td><td>01-09-2022 12:55:54</td><td>05-09-2022 11:00:00</td><td>Publicada</td><td>1</td><td>I MUNICIPALIDAD DE NOGALES</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>1099899-60-COT22</td><td>MATERIALES DE CONSTRUCCIÓN QUICALCURA - COSAM LOS ANDES</td><td>BIENES Y SERVICIOS</td><td>01-09-2022 11:14:32</td><td>05-09-2022 14:05:00</td><td>Publicada</td><td>1</td><td>CENTRO SALUD MENTAL COMUNITARIA LOS ANDES</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>2755-308-COT22</td><td>Compra de insumos veterinarios, Folio 1398 Prodesal</td><td>IMunicipalidad de San Antonio</td><td>01-09-2022 12:51:30</td><td>06-09-2022 11:00:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE SAN ANTONIO</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>3821-200-COT22</td><td>Focos redondos empotrados de 20W - LED</td><td>Departamento De Salud Municipal</td><td>01-09-2022 12:52:42</td><td>06-09-2022 8:00:00</td><td>Publicada</td><td>1</td><td>I MUNICIPALIDAD DE SANTA MARIA</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>2755-307-COT22</td><td>Arriendo de baños químicos, Folio 1388 Dideco-Cultura</td><td>IMunicipalidad de San Antonio</td><td>01-09-2022 12:45:59</td><td>05-09-2022 9:00:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE SAN ANTONIO</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>3882-776-COT22</td><td>ELEMENTOS DE PROTECCION PERSONA, NOTA Nº1786</td><td>Ilustre Municipalidad de Llay Llay</td><td>01-09-2022 12:38:43</td><td>05-09-2022 8:00:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE LLAY LLAY</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>623339-110-COT22</td><td>ADQUISICIÓN DE MATERIALES PARA MANTENIMIENTO Y REPARACIÓN DE NAVES </td><td>Escuela de Equitacion del Ejercito</td><td>01-09-2022 12:35:09</td><td>08-09-2022 12:39:00</td><td>Publicada</td><td>1</td><td>COMANDO DE APOYO A LA FUERZA</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>2757-894-COT22</td><td>ADQUISICIÓN ELECTRODOS PARA USO EN POSTAS RURALES DE LA RED DE SALUD MUNICIPAL -  PROVEEDOR DEBE AJUSTARSE A LO REQUERIDO EN ADJUNTO.</td><td>Salud</td><td>31-08-2022 18:07:21</td><td>07-09-2022 11:00:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE SAN ANTONIO</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>956-755-COT22</td><td>repisa y percheros cosam folio 9</td><td>SERVICIO DE SALUD VALPARAISO SAN ANTONIO</td><td>01-09-2022 12:20:53</td><td>05-09-2022 8:00:00</td><td>Publicada</td><td>0</td><td>SERVICIO DE SALUD VALPARAISO SAN ANTONIO</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>2424-1365-COT22</td><td>3590/P.37 (KMGA) VIDRIO CUBIERTA DE ESCRITORIO</td><td>I MUNICIPALIDAD DE VINA DEL MAR</td><td>01-09-2022 12:12:23</td><td>05-09-2022 9:00:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE VINA DEL MAR</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>1705-322-COT22</td><td>Puertas y chapa</td><td>Hospital Quintero</td><td>01-09-2022 12:06:26</td><td>08-09-2022 12:04:00</td><td>Publicada</td><td>0</td><td>HOSPITAL ADRIANA COUSINO DE QUINTERO</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>3621-263-COT22</td><td>COMPRA DE MATERIALES</td><td>I. Municipalidad de Cabildo-Central</td><td>01-09-2022 12:15:25</td><td>05-09-2022 10:00:00</td><td>Publicada</td><td>1</td><td>I MUNICIPALIDAD DE CABILDO</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>2757-892-COT22</td><td>ADQUISICIÓN EQUIPOS FLUORESCENTES PARA USO EN LA RED DE SALUD MUNICIPAL PROVEEDOR DEBE AJUSTARSE A LO REQUERIDO EN ADJUNTO.</td><td>Salud</td><td>31-08-2022 18:01:24</td><td>07-09-2022 10:00:00</td><td>Publicada</td><td>1</td><td>I MUNICIPALIDAD DE SAN ANTONIO</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>2427-801-COT22</td><td>ARTÌCULOS DE OFICINA, D. SEGURIDAD CIUDADANA, PROGRAMA PREPARA2</td><td>DEPARTAMENTO DE ADQUISICIONES</td><td>01-09-2022 12:03:39</td><td>05-09-2022 13:00:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE VALPARAISO</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>956-754-COT22</td><td>anilladora  cosam folio 9</td><td>SERVICIO DE SALUD VALPARAISO SAN ANTONIO</td><td>01-09-2022 12:13:11</td><td>05-09-2022 8:00:00</td><td>Publicada</td><td>0</td><td>SERVICIO DE SALUD VALPARAISO SAN ANTONIO</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>956-753-COT22</td><td>escalera cosam folio 9</td><td>SERVICIO DE SALUD VALPARAISO SAN ANTONIO</td><td>01-09-2022 12:08:55</td><td>05-09-2022 8:06:00</td><td>Publicada</td><td>0</td><td>SERVICIO DE SALUD VALPARAISO SAN ANTONIO</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>2464-1157-COT22</td><td>Articulos para Baños y duchas OP 52 Deportes</td><td>IMUNI_QUILLOTA ADQUISICIONES</td><td>01-09-2022 11:39:53</td><td>05-09-2022 9:00:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE QUILLOTA</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>553463-51-COT22</td><td>ADQUISICION DE MATERIALES DE CONSTRUCCION, CON CARGO PROGRAMA ORASMI 2022.-</td><td>COMPRAS ORASMI</td><td>01-09-2022 10:13:19</td><td>05-09-2022 9:00:00</td><td>Publicada</td><td>0</td><td>DELEGACIÓN PRESIDENCIAL REGIONAL DE VALPARAÍSO</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>3621-259-COT22</td><td>RECARGA DE EXTINTORES</td><td>I. Municipalidad de Cabildo-Central</td><td>01-09-2022 11:39:31</td><td>05-09-2022 15:30:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE CABILDO</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>3621-258-COT22</td><td>COMPRA DE TUBOS LED</td><td>I. Municipalidad de Cabildo-Central</td><td>01-09-2022 11:35:37</td><td>05-09-2022 10:00:00</td><td>Publicada</td><td>1</td><td>I MUNICIPALIDAD DE CABILDO</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>894-26-COT22</td><td>elementos de protección personal</td><td>Dirección General de Aguas - V Región </td><td>01-09-2022 10:49:31</td><td>12-09-2022 10:45:00</td><td>Publicada</td><td>0</td><td>MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>617807-1314-COT22</td><td>ADQUISICION DE INSUMOS DE ORTODONCIA</td><td>Hospital San Juan de Dios de Los Andes</td><td>01-09-2022 11:13:49</td><td>05-09-2022 14:00:00</td><td>Publicada</td><td>0</td><td>SERV NAC SALUD HOSPITAL DE LOS ANDES</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>2755-304-COT22</td><td>Compra de material de aseo, Folio 1042 Centro Cultural</td><td>IMunicipalidad de San Antonio</td><td>01-09-2022 11:03:37</td><td>06-09-2022 10:00:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE SAN ANTONIO</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>1057554-1712-COT22</td><td>ROLLO DE BANDERAS/ADORNOS  PNH 8007</td><td>Bienes y Servicios</td><td>01-09-2022 11:18:44</td><td>05-09-2022 8:00:00</td><td>Publicada</td><td>0</td><td>SERVICIO NACIONAL DE SALUD HOSPITAL CARLOS VAN BUREN</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>4803-92-COT22</td><td>Confección de 160 afiches de la foto conjunta de los Senadores en ejercicio para el Edificio Corporativo en Valparaíso.</td><td>Senado de la República de Chile</td><td>01-09-2022 11:08:59</td><td>05-09-2022 12:00:00</td><td>Publicada</td><td>0</td><td>SENADO DE LA REPUBLICA</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>3132-214-COT22</td><td>ADQUISICIÓN DE MATERIALES PARA CARPINTERÍA</td><td>DIRECCION DE SEGURIDAD Y OPERACIONES MARITIMAS</td><td>01-09-2022 10:37:13</td><td>07-09-2022 10:27:00</td><td>Publicada</td><td>0</td><td>DIRECCION DE ABASTECIMIENTO DE LA ARMADA</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>3065-57-COT22</td><td>MATERIALES PARA MANTENCIÓN DEPENDENCIAS COMAVNAV.</td><td>COMANDANCIA AVIACION NAVAL</td><td>01-09-2022 10:14:48</td><td>08-09-2022 9:00:00</td><td>Publicada</td><td>0</td><td>DIRECCION DE ABASTECIMIENTO DE LA ARMADA</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>3086-753-COT22</td><td>ADQ. DE LUBRICANTES BASIMCON (LUB/035).</td><td>CENTRO DE ABASTECIMIENTO (V) (ADQ)</td><td>01-09-2022 10:26:12</td><td>05-09-2022 10:16:00</td><td>Publicada</td><td>0</td><td>DIRECCION DE ABASTECIMIENTO DE LA ARMADA</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>847-48-COT22</td><td>Copia de llaves para Jardines Infantiles y Oficinas regionales de la región de Valparaíso</td><td>Junji - V Región</td><td>01-09-2022 10:31:53</td><td>06-09-2022 16:30:00</td><td>Publicada</td><td>0</td><td>JUNTA NACIONAL DE JARDINES         INFANTILES</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>898-571-COT22</td><td>Mascara de tracción anterior (Petit) cualquier marca</td><td>HOSPITAL CLAUDIO VICUNA</td><td>01-09-2022 10:19:52</td><td>05-09-2022 9:49:00</td><td>Publicada</td><td>0</td><td>SERVICIO DE SALUD VALPARAISO SAN ANTONIO</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>1138111-32-COT22</td><td>ADQUISICIÓN DE MATERIALES ELÉCTRICOS</td><td>FFG ALMIRANTE LATORRE</td><td>01-09-2022 10:18:41</td><td>08-09-2022 10:00:00</td><td>Publicada</td><td>0</td><td>DIRECCION DE ABASTECIMIENTO DE LA ARMADA</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>956-747-COT22</td><td>carpetas, lápices, chapitas folio 602  </td><td>SERVICIO DE SALUD VALPARAISO SAN ANTONIO</td><td>01-09-2022 10:13:24</td><td>05-09-2022 8:12:00</td><td>Publicada</td><td>0</td><td>SERVICIO DE SALUD VALPARAISO SAN ANTONIO</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>2186-365-COT22</td><td>ARTICULOS ELECTRONICOS</td><td>Hospital Geriátrico Paz de la Tarde</td><td>01-09-2022 10:02:13</td><td>08-09-2022 10:01:00</td><td>Publicada</td><td>0</td><td>HOSPITAL GERIATRICO LA PAZ DE LA TARDE</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>900-388-COT22</td><td>HDS - TIMBRES UNIDAD RRHH</td><td>Hospital Psquiatrico del Salvador</td><td>01-09-2022 10:02:21</td><td>05-09-2022 9:00:00</td><td>Publicada</td><td>0</td><td>SERVICIO DE SALUD VALPARAISO SAN ANTONIO</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>3561-269-COT22</td><td>ESCALERA  TIJERA </td><td>Departamento de Salud Municipal</td><td>01-09-2022 9:50:52</td><td>07-09-2022 9:47:00</td><td>Publicada</td><td>1</td><td>I MUNICIPALIDAD DE LA CALERA</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>2200-217-COT22</td><td>BARRA LED Y MONOMANDO PARA LAVAPLATOS - UAI</td><td>Servicio de Salud Aconcagua</td><td>01-09-2022 9:42:54</td><td>06-09-2022 8:00:00</td><td>Publicada</td><td>0</td><td>SERVICIO DE SALUD ACONCAGUA</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>799512-241-COT22</td><td>DAS SOLICITUD DE COMPRA 4 APOYA PIES PARA CESFAM CORDILLERA</td><td>Corporación</td><td>01-09-2022 9:23:21</td><td>06-09-2022 10:00:00</td><td>Publicada</td><td>0</td><td>CORP MUNICIPAL DE VALPARAISO PARA EL DESARROLLO SOCIAL</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>3493-197-COT22</td><td>MATERIALES DE SOLDAR PARA CASONA RINCONADA</td><td>Departamento de Educación</td><td>01-09-2022 9:04:28</td><td>05-09-2022 8:00:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE RINCONADA</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>1178407-29-COT22</td><td>UTILES DE ASEO </td><td>Estado Mayor General de la Armada</td><td>30-08-2022 14:41:21</td><td>07-09-2022 9:00:00</td><td>Publicada</td><td>0</td><td>DIRECCION DE ABASTECIMIENTO DE LA ARMADA</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>3684-85-COT22</td><td>ADQUISICIÓN DE JUEGO MODULAR COMBINADO PLAZA EXTERIOR ESCUELA EL TOTORAL</td><td>Departamento de educacion</td><td>31-08-2022 18:38:46</td><td>07-09-2022 14:00:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE EL QUISCO</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>632-26-COT22</td><td>ADQUISICIÓN DE MATERIALES PARA ACTIVIDADES EN TERRENO DEL PROGRAMA BARRIOS</td><td>SEREMI MINVU V REGION</td><td>31-08-2022 16:56:41</td><td>05-09-2022 12:00:00</td><td>Publicada</td><td>0</td><td>SUBSECRETARIA DEL MINISTERIO DE LA VIVIENDA Y URBANISMO</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>2176-211-COT22</td><td>Compra de 1 mástil de madera de interior de 2.0 mt. de alto para el 1°Juzgado de Civil de Viña del Mar.</td><td>Corp. Adm. del Poder Judicial -  Valparaiso</td><td>31-08-2022 17:00:30</td><td>05-09-2022 11:00:00</td><td>Publicada</td><td>0</td><td>CORP ADMINISTRATIVA DEL PODER JUDICIAL</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>2737-318-COT22</td><td>MATERIALES DE FERRETERIA</td><td>ADQUISICIONES MUNISANFE</td><td>31-08-2022 16:36:17</td><td>05-09-2022 9:33:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE SAN FELIPE</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>2464-1152-COT22</td><td>Adquisición de pinturas segun OP 54 Deportes</td><td>IMUNI_QUILLOTA ADQUISICIONES</td><td>31-08-2022 16:10:26</td><td>05-09-2022 9:00:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE QUILLOTA</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>2688-115-COT22</td><td>ADQUISICION LANYARDY PORTA CREDENCIALES PARA CESFAM</td><td>MUNICIPALIDAD DE ALGARROBO-SALUD</td><td>31-08-2022 16:00:41</td><td>07-09-2022 15:00:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE ALGARROBO</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>907581-21-COT22</td><td>accesorios equipos de comunicaciones</td><td>20 Organismo Central-DITICO_Transversal</td><td>31-08-2022 15:38:02</td><td>09-09-2022 8:30:00</td><td>Publicada</td><td>0</td><td>UNIVERSIDAD DE VALPARAISO</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>3602-120-COT22</td><td> materiales de oficina  para Programa Chile Crece Contigo </td><td>Municipalidad de Papudo - Salud</td><td>31-08-2022 15:22:35</td><td>07-09-2022 15:06:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE PAPUDO</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>622838-30-COT22</td><td>ADQUISICIÓN DE ELEMENTOS PARA PINTADO </td><td>AO 53 ARAUCANO</td><td>31-08-2022 15:04:00</td><td>07-09-2022 12:00:00</td><td>Publicada</td><td>1</td><td>DIRECCION DE ABASTECIMIENTO DE LA ARMADA</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>2186-360-COT22</td><td>MATERIALES CLUB ESCOLAR</td><td>Hospital Geriátrico Paz de la Tarde</td><td>31-08-2022 15:00:21</td><td>05-09-2022 12:00:00</td><td>Publicada</td><td>0</td><td>HOSPITAL GERIATRICO LA PAZ DE LA TARDE</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>2186-359-COT22</td><td>BASUREROS 30 LTS TAPA Y PEDAL</td><td>Hospital Geriátrico Paz de la Tarde</td><td>31-08-2022 14:56:12</td><td>07-09-2022 14:55:00</td><td>Publicada</td><td>0</td><td>HOSPITAL GERIATRICO LA PAZ DE LA TARDE</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>1703-186-COT22</td><td>Mantención preventiva y/o correctiva de las instalaciones del casino del Hospital Dr. Mario Sanchez Vergara</td><td>Hospital Dr. Mario Sánchez Vergara de La Calera</td><td>31-08-2022 14:29:57</td><td>07-09-2022 14:26:00</td><td>Publicada</td><td>0</td><td>HOSPITAL DR MARIO SANCHEZ VERGARA LA CALERA</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>3124-34-COT22</td><td>SERVICIO DE MANTENCIÓN Y RECARGA DE EXTINTORES</td><td>DIRECCION DE ABASTECIMIENTO DEPTO. ABASTECIMIENTO</td><td>31-08-2022 14:21:04</td><td>07-09-2022 10:30:00</td><td>Publicada</td><td>0</td><td>DIRECCION DE ABASTECIMIENTO DE LA ARMADA</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>622838-29-COT22</td><td>ADQUISICIÓN DE ÚTILES DE ESCRITORIO</td><td>AO 53 ARAUCANO</td><td>31-08-2022 13:57:14</td><td>07-09-2022 13:00:00</td><td>Publicada</td><td>0</td><td>DIRECCION DE ABASTECIMIENTO DE LA ARMADA</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>622838-28-COT22</td><td>ADQUISICIÓN DE ÚTILES DE ASEO</td><td>AO 53 ARAUCANO</td><td>31-08-2022 13:00:58</td><td>06-09-2022 13:00:00</td><td>Publicada</td><td>0</td><td>DIRECCION DE ABASTECIMIENTO DE LA ARMADA</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>4549-206-COT22</td><td>PASTO SINTETICO ESCUELA JUAN JOSE TORTEL - MOVAMONOS</td><td>UNIDAD DAEM</td><td>31-08-2022 13:38:26</td><td>05-09-2022 12:00:00</td><td>Publicada</td><td>1</td><td>I MUNICIPALIDAD DE QUINTERO</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>2427-787-COT22</td><td>Artículos de Oficina, Cultura</td><td>DEPARTAMENTO DE ADQUISICIONES</td><td>31-08-2022 12:47:53</td><td>05-09-2022 10:00:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE VALPARAISO</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>3132-213-COT22</td><td>ADQUISICION DE MATERIALES ELÉCTRICOS PARA SÑ. MARÍTIMA</td><td>DIRECCION DE SEGURIDAD Y OPERACIONES MARITIMAS</td><td>31-08-2022 11:51:20</td><td>14-09-2022 12:00:00</td><td>Publicada</td><td>0</td><td>DIRECCION DE ABASTECIMIENTO DE LA ARMADA</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>3602-118-COT22</td><td>Estufa </td><td>Municipalidad de Papudo - Salud</td><td>31-08-2022 11:58:13</td><td>07-09-2022 11:55:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE PAPUDO</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>2123-407-COT22</td><td>DSP vav Compra material taller de alimentación saludable</td><td>Seremi de Salud V Región</td><td>31-08-2022 11:48:24</td><td>07-09-2022 11:46:00</td><td>Publicada</td><td>0</td><td>SUBSECRETARIA DE SALUD PUBLICA</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>2123-406-COT22</td><td>DSP vav Insumos para Talleres EVS</td><td>Seremi de Salud V Región</td><td>31-08-2022 11:31:03</td><td>07-09-2022 11:30:00</td><td>Publicada</td><td>0</td><td>SUBSECRETARIA DE SALUD PUBLICA</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>1953-368-COT22</td><td>502/Adquisicion Materiales Elecetricos para Mantencion del CPV</td><td>Región de Valparaíso</td><td>31-08-2022 11:28:16</td><td>06-09-2022 15:25:00</td><td>Publicada</td><td>0</td><td>DIRECCION GENERAL DE GENDARMERIA DE CHIL</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>2950-392-COT22</td><td>ADQUISICIÓN DE REJILLAS PVC PARA BAÑOS DE ENTREPUENTES</td><td>ESCUELA NAVAL "ARTURO PRAT"</td><td>31-08-2022 11:40:40</td><td>07-09-2022 15:00:00</td><td>Publicada</td><td>0</td><td>DIRECCION DE ABASTECIMIENTO DE LA ARMADA</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>2123-405-COT22</td><td>DSP vav  Insumos para Talleres EVS</td><td>Seremi de Salud V Región</td><td>31-08-2022 10:55:45</td><td>09-09-2022 10:54:00</td><td>Publicada</td><td>0</td><td>SUBSECRETARIA DE SALUD PUBLICA</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>3684-84-COT22</td><td>TABLEROS DE AJEDREZ, ESTABLECIMIENTOS EDUCACIONALES DE LA COMUNA</td><td>Departamento de educacion</td><td>31-08-2022 11:00:04</td><td>07-09-2022 12:00:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE EL QUISCO</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>2755-302-COT22</td><td>Arriendo de 8 baños químicos por 16, 17, 18, 19 de Septiembre, Folio 1369, Cultura</td><td>IMunicipalidad de San Antonio</td><td>31-08-2022 10:42:48</td><td>06-09-2022 11:00:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE SAN ANTONIO</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>2427-785-COT22</td><td>Adquisición de Herramientas manuales y accesorios, DAT</td><td>DEPARTAMENTO DE ADQUISICIONES</td><td>30-08-2022 16:05:21</td><td>05-09-2022 13:00:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE VALPARAISO</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>4895-378-COT22</td><td>COMPRA E INSTALACION DE MOTOR PARA PORTON (SEGÚN CARACTERÍSTICAS ADJUNTAS)</td><td>04 Facultad de Medicina</td><td>31-08-2022 10:24:50</td><td>06-09-2022 10:30:00</td><td>Publicada</td><td>0</td><td>UNIVERSIDAD DE VALPARAISO</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>2626-221-COT22</td><td>SEÑALETICAS PARA DEPTO DE TRANSITO </td><td>OFICINA DE ADQUISICIONES</td><td>31-08-2022 10:13:09</td><td>05-09-2022 11:00:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE PUTAENDO</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>913-44-COT22</td><td>DISCO SSD 2,5" 480 GB</td><td>SEREMI VALPARAISO</td><td>31-08-2022 10:07:13</td><td>07-09-2022 10:04:00</td><td>Publicada</td><td>0</td><td>MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>1198-74-COT22</td><td>IMPLEMENTOS DE SEGURIDAD PERSONAL ESTADIO FISCAL SAN FELIPE - REQ. 3-GRSF-2022</td><td>I.N.D. REGION V</td><td>31-08-2022 7:32:14</td><td>06-09-2022 11:30:00</td><td>Publicada</td><td>1</td><td>INSTITUTO NACIONAL DE DEPORTES DE CHILE</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>1173462-6-COT22</td><td>519/ ADQUISICION DE  50 M3 DE ARENA GRUESA PARA CONSTRUCCION DE CAMINO CENTINELA EN EL CP DE VALPARAISO</td><td>CET Cerrado Complejo Penitenciario Valparaíso</td><td>30-08-2022 17:16:48</td><td>06-09-2022 12:00:00</td><td>Publicada</td><td>0</td><td>DIRECCION GENERAL DE GENDARMERIA DE CHIL</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>950-34-COT22</td><td>Materiales uso escolar</td><td>Mineduc Administración V Región</td><td>29-08-2022 11:14:50</td><td>06-09-2022 11:48:00</td><td>Publicada</td><td>0</td><td>SUBSECRETARIA DEL MINISTERIO DE EDUCACION PUBLICA</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>3138-46-COT22</td><td>MATERIALES DE INFRAESTRUCTURA</td><td>DIRECCION DE INGENIERIA DE SISTEMAS NAVALES</td><td>30-08-2022 9:03:05</td><td>07-09-2022 10:00:00</td><td>Publicada</td><td>0</td><td>DIRECCION DE ABASTECIMIENTO DE LA ARMADA</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>4994-135-COT22</td><td>*Muebles Postgrado</td><td>06 Facultad de Derecho</td><td>30-08-2022 16:05:51</td><td>06-09-2022 15:41:00</td><td>Publicada</td><td>0</td><td>UNIVERSIDAD DE VALPARAISO</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>859378-297-COT22</td><td>Alojamiento Jornadas Formación Ciudadana UVA 1999</td><td>14 Convenio Desempeño - Proyectos</td><td>30-08-2022 15:54:29</td><td>06-09-2022 16:00:00</td><td>Publicada</td><td>0</td><td>UNIVERSIDAD DE VALPARAISO</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>1173459-22-COT22</td><td>504/ADQUISICIÒN ADICIONAL DE MATERIALES PARA LA CONSTRUCCIÒN DE AMPLIACIÒN USEP CDP QUILLOTA</td><td>CET Valparaíso</td><td>30-08-2022 15:35:13</td><td>05-09-2022 15:10:00</td><td>Publicada</td><td>0</td><td>DIRECCION GENERAL DE GENDARMERIA DE CHIL</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>5324-70-COT22</td><td>Adquisición, instalación y reparación de espacio para el reemplazo de luminarias fluorescentes por luminarias LED del Centro Semicerrado de Limache</td><td>CSC Valparaiso</td><td>30-08-2022 15:38:57</td><td>06-09-2022 8:34:00</td><td>Publicada</td><td>0</td><td>SERVICIO NACIONAL DE MENORES</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>5324-69-COT22</td><td>MANTENCION DE CALEFONT </td><td>CSC Valparaiso</td><td>30-08-2022 15:19:57</td><td>05-09-2022 8:00:00</td><td>Publicada</td><td>0</td><td>SERVICIO NACIONAL DE MENORES</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>377-246-COT22</td><td>PINTURAS Y OTROS</td><td>MUNICIPALIDAD DE ALGARROBO-ADQUISICIONES</td><td>30-08-2022 15:05:19</td><td>06-09-2022 15:04:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE ALGARROBO</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>2687-175-COT22</td><td>MATERIAL DIDACTICO Y DE ENSEÑANSA PARA SALA CUNA MIRASOL</td><td>MUNICIPALIDAD DE ALGARROBO-EDUCACION</td><td>30-08-2022 13:16:04</td><td>07-09-2022 9:00:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE ALGARROBO</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>548856-14-COT22</td><td>TOLDOS PUBLICITARIO TIPO ARAÑA</td><td>IPS Region de Valparaiso</td><td>30-08-2022 13:33:29</td><td>06-09-2022 9:00:00</td><td>Publicada</td><td>1</td><td>INSTITUTO DE PREVISION SOCIAL</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>1108338-293-COT22</td><td>COMPRA DE ARTICULOS DE ESCRITORIO Y OTROS. PROGRAMA SALUD MENTAL</td><td>Centro de Salud Cordillera Andina</td><td>25-08-2022 13:20:51</td><td>06-09-2022 13:02:00</td><td>Publicada</td><td>0</td><td>CONSULTORIO GENERAL N°2 DE LOS ANDES</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>956-735-COT22</td><td>materiales de escritorios memo 109 folio 354</td><td>SERVICIO DE SALUD VALPARAISO SAN ANTONIO</td><td>30-08-2022 12:34:39</td><td>08-09-2022 8:00:00</td><td>Publicada</td><td>0</td><td>SERVICIO DE SALUD VALPARAISO SAN ANTONIO</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>4301-190-COT22</td><td>adquisición de timbres para licencia de conducir y transito  </td><td>IMUNI_ ZAPALLAR</td><td>30-08-2022 12:03:42</td><td>09-09-2022 10:00:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE ZAPALLAR</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>2757-877-COT22</td><td>ADQUISICION MATERIALES DE FERRETERIA CECOSF CERRO ALEGRE</td><td>Salud</td><td>30-08-2022 12:00:28</td><td>06-09-2022 10:00:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE SAN ANTONIO</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>3167-153-COT22</td><td>ADQUISICION DE ARTICULOS PARA PLACA IDENTIFICACION</td><td>IMPRENTA DE LA ARMADA</td><td>30-08-2022 11:12:59</td><td>06-09-2022 9:11:00</td><td>Publicada</td><td>0</td><td>DIRECCION DE ABASTECIMIENTO DE LA ARMADA</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>2974-604-COT22</td><td>REPARACION PORTON CORREDERA C.R. MAITENCILLO(170/2022)</td><td>División de Bienestar Social</td><td>30-08-2022 11:19:28</td><td>06-09-2022 9:00:00</td><td>Publicada</td><td>0</td><td>FUERZA AEREA DE CHILE COMANDO LOGISTICO</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>1017-79-COT22</td><td>ADQUSICIÓN DE MATERIALES PARA ARREGLO DE CONECTIVIDAD DE LA DCyF REGIÓN DE VALPARAISO</td><td>Dirección de Contabilidad y Finanzas - MOP</td><td>30-08-2022 10:45:02</td><td>06-09-2022 12:00:00</td><td>Publicada</td><td>0</td><td>MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>2687-171-COT22</td><td>TOLDOS  PLEGABLES DE 3 X 6 PARA ESCUELA BASICA SAN JOSE</td><td>MUNICIPALIDAD DE ALGARROBO-EDUCACION</td><td>30-08-2022 10:47:00</td><td>06-09-2022 9:00:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE ALGARROBO</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>2687-170-COT22</td><td>MATERIAL PARA  TALLER DE PINTURA</td><td>MUNICIPALIDAD DE ALGARROBO-EDUCACION</td><td>30-08-2022 10:20:44</td><td>07-09-2022 12:00:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE ALGARROBO</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>3057-45-COT22</td><td>PROTECTOR PISO FLOTANTE</td><td>CONTRALORIA DE LA ARMADA</td><td>30-08-2022 9:21:09</td><td>05-09-2022 8:05:00</td><td>Publicada</td><td>0</td><td>DIRECCION DE ABASTECIMIENTO DE LA ARMADA</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>3065-55-COT22</td><td>MATERIALES  PARA MANTENIMIENTO DE AERONAVES.</td><td>COMANDANCIA AVIACION NAVAL</td><td>29-08-2022 15:28:11</td><td>05-09-2022 10:00:00</td><td>Publicada</td><td>0</td><td>DIRECCION DE ABASTECIMIENTO DE LA ARMADA</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>3777-46-COT22</td><td>ADQUISICION DE WC MAS ESTANQUE ONE PIECE; PARA LICEO MUNICIPAL LUIS LABORDA</td><td>Dpto. De Administracion Educacional Municipal</td><td>29-08-2022 17:15:41</td><td>05-09-2022 17:30:00</td><td>Publicada</td><td>1</td><td>I MUNICIPALIDAD DE HIJUELAS</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>377-240-COT22</td><td>ADQUISICION DE MERCADERIA CDA</td><td>MUNICIPALIDAD DE ALGARROBO-ADQUISICIONES</td><td>29-08-2022 15:42:17</td><td>05-09-2022 15:37:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE ALGARROBO</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>1079516-290-COT22</td><td>SERVICIO DE REPARACIÓN Y MANTENIMIENTO DE BAÑOS, INCLUIDO MATERIALES Y MANO DE OBRA, PARA INMUEBLE DE D.E.V.B. VALPARAISO.</td><td>SECCIÓN COMPRAS V ZONA</td><td>29-08-2022 16:42:45</td><td>05-09-2022 15:00:00</td><td>Publicada</td><td>0</td><td>DIRECCION DE LOGISTICA DE CARABINEROS</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>3073-224-COT22</td><td>Pinturas (ver nota)</td><td>SERVICIO HIDROGRAFICO Y OCEANOGRAFICO</td><td>29-08-2022 15:07:31</td><td>05-09-2022 10:00:00</td><td>Publicada</td><td>0</td><td>DIRECCION DE ABASTECIMIENTO DE LA ARMADA</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>3138-42-COT22</td><td>ACEITES LUBRICANTES PARA VEHÍCULOS</td><td>DIRECCION DE INGENIERIA DE SISTEMAS NAVALES</td><td>29-08-2022 8:57:01</td><td>05-09-2022 15:00:00</td><td>Publicada</td><td>0</td><td>DIRECCION DE ABASTECIMIENTO DE LA ARMADA</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>1459-12-COT22</td><td>Servicio de Arriendo y Mantención de baños químicos</td><td>Dirección de Vialidad - V Región - Provincia de Valparaíso</td><td>03-08-2022 12:04:33</td><td>09-09-2022 15:21:00</td><td>Publicada</td><td>0</td><td>MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>4620-26-COT22</td><td>ADQUISICIÓN E INSTALACIÓN DE PERSIANAS ROLLER DÚO A MEDIDA PARA IPT VALPARAÍSO</td><td>Dirección del Trabajo V Región</td><td>29-08-2022 14:05:06</td><td>07-09-2022 15:30:00</td><td>Publicada</td><td>0</td><td>DIRECCION DEL TRABAJO</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>5194-722-COT22</td><td>512- CCP SAN FELIPE FONDO FACULTATIVO REMODELACION DE CASINO DE FUNCIONARIOS </td><td>Bienestar Social y Calidad de Vida</td><td>29-08-2022 13:29:10</td><td>05-09-2022 13:26:00</td><td>Publicada</td><td>0</td><td>DIRECCION GENERAL DE GENDARMERIA DE CHIL</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>316-580-COT22</td><td>PEDIDO N°30 DAM, ADQUISICION DE BOLAS DE ALGODON, MORRALES Y OTROS</td><td>ADQUISICIONES</td><td>22-08-2022 17:45:12</td><td>05-09-2022 13:23:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE VILLA ALEMANA</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>792902-9-COT22</td><td>Mantención Aire Acondicionado 22 unidades Split Ducto y un cambio de orientación ducto flexible DRV</td><td>SUPEREDUC DIRECCION REGIONAL V</td><td>29-08-2022 12:54:24</td><td>05-09-2022 13:00:00</td><td>Publicada</td><td>0</td><td>SUPERINTENDENCIA DE EDUCACION ESCOLAR</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>2123-393-COT22</td><td>DAS spp 10 rollos  de 5 Bolsas de 120 X 130 cm (SAR 769)</td><td>Seremi de Salud V Región</td><td>29-08-2022 12:50:17</td><td>05-09-2022 10:00:00</td><td>Publicada</td><td>0</td><td>SUBSECRETARIA DE SALUD PUBLICA</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>3086-740-COT22</td><td>ADQUISICION DE MATERIAL CH(C07091/L05445)</td><td>CENTRO DE ABASTECIMIENTO (V) (ADQ)</td><td>29-08-2022 10:43:38</td><td>04-09-2022 8:00:00</td><td>Publicada</td><td>0</td><td>DIRECCION DE ABASTECIMIENTO DE LA ARMADA</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>3117-378-COT22</td><td>ADQUISICION DE MATERIAL DE OFICINA PARA CENTRO DE REHABILITACION DALEGRIA</td><td>DEPTO. DE BIENESTAR SOCIAL (V)</td><td>29-08-2022 9:38:10</td><td>05-09-2022 9:36:00</td><td>Publicada</td><td>0</td><td>DIRECCION DE ABASTECIMIENTO DE LA ARMADA</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>1198-72-COT22</td><td>ADQUISICIÓN MATERIALES ASEO y MANTENCIÓN ESTADIO FISCAL SAN FELIPE - REQ. 2-GRSF-2022</td><td>I.N.D. REGION V</td><td>29-08-2022 9:04:29</td><td>09-09-2022 12:00:00</td><td>Publicada</td><td>0</td><td>INSTITUTO NACIONAL DE DEPORTES DE CHILE</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>898-562-COT22</td><td>VISITA TECNICA LAVADORA AT-OS</td><td>HOSPITAL CLAUDIO VICUNA</td><td>26-08-2022 16:52:24</td><td>05-09-2022 10:46:00</td><td>Publicada</td><td>0</td><td>SERVICIO DE SALUD VALPARAISO SAN ANTONIO</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>2176-208-COT22</td><td>Suministro e instalación vidrio y empavonado Isla de Pascua</td><td>Corp. Adm. del Poder Judicial -  Valparaiso</td><td>26-08-2022 13:30:32</td><td>05-09-2022 14:23:00</td><td>Publicada</td><td>0</td><td>CORP ADMINISTRATIVA DEL PODER JUDICIAL</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>1078886-87-COT22</td><td>tapas de wc y dispensador jmt</td><td>ATENCION PRIMARIA DIRECCION</td><td>26-08-2022 11:35:20</td><td>05-09-2022 8:00:00</td><td>Publicada</td><td>0</td><td>SERVICIO DE SALUD VALPARAISO SAN ANTONIO</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>3232-348-COT22</td><td>TOLDOS PLEGABLES 40x40 MM - SC N°77258 DIDECO</td><td>Departamento Adquisiciones</td><td>25-08-2022 17:09:36</td><td>06-09-2022 10:30:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE SANTO DOMINGO</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>799512-237-COT22</td><td>DAS COMPRA MATERIALES DE CONSTRUCCION PROGRAMA SALUD FAMILIAR</td><td>Corporación</td><td>25-08-2022 15:40:41</td><td>07-09-2022 8:35:00</td><td>Publicada</td><td>0</td><td>CORP MUNICIPAL DE VALPARAISO PARA EL DESARROLLO SOCIAL</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>2698-150-COT22</td><td>Se requiere la adquisicion de Aceite Quartz</td><td>MUNICIPALIDAD DE CARTAGENA-ADQUISICIONES</td><td>25-08-2022 15:34:46</td><td>05-09-2022 11:40:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE CARTAGENA</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>1953-362-COT22</td><td>517/- ADQUISICION DE MATERIALES DE CONSTRUCCION PARA LA INSTALACION DE CONCERTINAS, CDP PETORCA” </td><td>Región de Valparaíso</td><td>25-08-2022 12:31:57</td><td>05-09-2022 10:00:00</td><td>Publicada</td><td>1</td><td>DIRECCION GENERAL DE GENDARMERIA DE CHIL</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>1705-316-COT22</td><td>SOLICITUD DE MEDICAMENTOS SEGÚN PEDIDO N°9</td><td>Hospital Quintero</td><td>25-08-2022 10:52:03</td><td>06-09-2022 10:49:00</td><td>Publicada</td><td>0</td><td>HOSPITAL ADRIANA COUSINO DE QUINTERO</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>1057370-381-COT22</td><td> CONFECCION DE TIMBRES</td><td>Bienes y Servicios</td><td>25-08-2022 9:54:15</td><td>05-09-2022 9:53:00</td><td>Publicada</td><td>0</td><td>HOSPITAL PSIQUIATRICO DR. PHILIPPE PINEL PUTAENDO</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>3882-751-COT22</td><td>VIVIENDAS TUTELADAS</td><td>Ilustre Municipalidad de Llay Llay</td><td>24-08-2022 14:51:10</td><td>09-09-2022 7:00:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE LLAY LLAY</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>3086-730-COT22</td><td>ADQ. REPUESTOS LY (B74671-1-2)</td><td>CENTRO DE ABASTECIMIENTO (V) (ADQ)</td><td>24-08-2022 11:05:27</td><td>04-09-2022 8:00:00</td><td>Publicada</td><td>0</td><td>DIRECCION DE ABASTECIMIENTO DE LA ARMADA</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>2020-74-COT22</td><td>Provisión e instalación de pulsador de apertura de puerta, con brazo hidráulico, retenedor magnético de 250 kilos de resistencia</td><td>Biblioteca del Congreso Nacional</td><td>23-08-2022 18:00:18</td><td>06-09-2022 10:27:00</td><td>Publicada</td><td>0</td><td>Biblioteca del Congreso Nacional</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>2920-167-COT22</td><td>Adquisición de Juegos Infantiles, Programa Senda Previene</td><td>IMunicipalidad de Juan Fernández</td><td>23-08-2022 10:38:17</td><td>05-09-2022 12:00:00</td><td>Publicada</td><td>0</td><td>I MUNICIPALIDAD DE JUAN FERNANDEZ</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>1704-1233-COT22</td><td>FRANJA DE VINILO PARA PUESTA EN MARCHA.</td><td>Hospital San Martín de Quillota</td><td>19-08-2022 14:32:35</td><td>07-09-2022 15:44:00</td><td>Publicada</td><td>0</td><td>SERVICIO DE SALUD VINA DEL MAR QUILLOTA</td>
+	</tr><tr style="color:#000000;background-color:#F4F7FC;font-family:Verdana;font-size:10pt;">
+		<td>3086-710-COT22</td><td>ADQUISICION DE LUBRICANTE RV (F03915/1)</td><td>CENTRO DE ABASTECIMIENTO (V) (ADQ)</td><td>18-08-2022 15:42:08</td><td>04-09-2022 8:00:00</td><td>Publicada</td><td>0</td><td>DIRECCION DE ABASTECIMIENTO DE LA ARMADA</td>
+	</tr><tr style="color:#000000;background-color:#FFFFFF;font-family:Verdana;font-size:10pt;">
+		<td>1703-163-COT22</td><td>Adquisición según Solicitud de Compra N° 281 de la Unidad de Operaciones del Hospital Dr. Mario Sánchez Vergara</td><td>Hospital Dr. Mario Sánchez Vergara de La Calera</td><td>10-08-2022 11:01:52</td><td>05-09-2022 12:40:00</td><td>Publicada</td><td>0</td><td>HOSPITAL DR MARIO SANCHEZ VERGARA LA CALERA</td>
+	</tr>
+</table>
